@@ -1,6 +1,6 @@
 <h1 align='center'> Olá, eu sou a Nicolle 👋 </h1>
 
-- 👩‍🎓 Granduanda em Engenharia de Automação na FURG e bolsista ANP
+- 👩‍🎓 Graduanda em Engenharia de Automação na FURG e bolsista ANP
 
 - ❤️ Apaixonada por tecnologia 💻 e matemática ✏️ 📚
 
